@@ -14,7 +14,20 @@
 ### Feature Branch
 * 기능개발 브랜치: 개발자 로컬 저장소에서 관리, 새로운 기능을 구현하는 브랜치
 * 브랜치명은 Feat/기능이름 으로 작업하기
+~~~
+git branch Feat/컴포넌트 이름
+git branch
+git swutch Feat/컴포넌트 이름
+~~~
 * 이후 원격저장소로 Push하여 PR
+~~~
+touch Theo.파일이름
+
+// 작업 완료 후
+
+git commit -m '컴포넌트 작업 완료 헀습니다~ 확인 해주세영'
+git push --set-upstream origin Feat/내가 만든 Feature Branch 이름
+~~~
 * Develop Branch로 Merge
 * 이후 다른기능 개발시 새로운 브랜치 생성하여 앞의 내용 반복하기
 
