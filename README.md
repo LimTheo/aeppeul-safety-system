@@ -25,7 +25,7 @@ touch Theo.파일이름
 
 // 작업 완료 후
 
-git commit -m '컴포넌트 작업 완료 헀습니다~ 확인 해주세영'
+git commit -m '컴포넌트 작업 완료 헀습니다~ 확인 후 Merage 해주세영'
 git push --set-upstream origin Feat/내가 만든 Feature Branch 이름
 ~~~
 * Develop Branch로 Merge
