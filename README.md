@@ -40,3 +40,6 @@ git push --set-upstream origin Feat/내가 만든 Feature Branch 이름
 4. 초기 설정 환료 후 테스트 이슈 등록완료
 
 <br />
+
+## 참고사항
+1. 깃허브에 커밋 전 현재 최신의 레포지토리 정보를 가져오는 git pull origin develop를 사용하여 충돌방지 하기
