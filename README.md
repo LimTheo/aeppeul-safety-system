@@ -37,7 +37,7 @@ git push --set-upstream origin Feat/내가 만든 Feature Branch 이름
 1. main, develop branch 설정완료
 2. Degault Branch를 develop로 설정 완료
 3. 팀원 초대 해야함 ( 아직 개인들 깃허브 아이디 모름... )
-4. 초기 설정 환료 후 테스트 이슈 등록완료
+4. 초기 설정 완료 후 테스트 이슈 등록완료
 
 <br />
 
